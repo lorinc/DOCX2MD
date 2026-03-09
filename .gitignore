@@ -3,6 +3,7 @@
 service-account.json
 credentials.json
 token.json
+token.pickle
 
 # API Keys and secrets
 *.key
